@@ -7,5 +7,4 @@
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hasan-Kilici&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)\
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasan-Kilici&theme=dark&show_icons=true)
 
