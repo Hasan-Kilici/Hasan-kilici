@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/C2p1MYk/71.jpg" alt="71" border="0" style="border-radius:8px;width:100%;height:300px"><br>
+<img src="https://i.ibb.co/C2p1MYk/71.jpg" alt="71" border="0" ><br>
 I Know & Use
 <div align="center">
 <table><tr>
