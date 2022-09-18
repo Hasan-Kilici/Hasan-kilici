@@ -1,5 +1,6 @@
+
 <img src="https://komarev.com/ghpvc/?username=hasan-kilici&color=red" />
-I Know & Use
+<h2>I Know & Use</h2><br>
 <div align="center">
 <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/html.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/boostrap.svg"></code>
@@ -24,6 +25,13 @@ I Know & Use
 <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/typescript.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/git.svg"></code>
 <br><br>
+</div>
+<h2>Contact me</h2>
+<ul>
+<li><a href="https://kawethra.ga">My Website</a></li>
+<li><a href="https://discordapp.com/users/695995816791507024>My Discord Profile</a></li>
+<br><br>
+<div align="center">
 <details>
   <summary>Click to Show Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Kilici&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117&border_color=0d1117" style="float:left">
