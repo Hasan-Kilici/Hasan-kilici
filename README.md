@@ -36,6 +36,7 @@
 <div align="center">
 <details>
   <summary>Click to Show Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-kilici&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=12"><br><br>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-kilici&theme=github-dark&show_icons=true"/><br><br>
 <img src="https://github-profile-trophy.vercel.app/?username=hasan-kilici&theme=onedark" />
 
