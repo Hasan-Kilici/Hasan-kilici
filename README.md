@@ -1,5 +1,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=hasan-kilici&color=red" />
+<h3>My Skills</h3>
+
 <div >
  <kbd>
    <kbd>
