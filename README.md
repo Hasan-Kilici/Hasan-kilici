@@ -51,7 +51,6 @@
 </div>
 <h2>Contact me</h2>
 <ul>
-<li><a href="https://kawethra.ga">My Website</a></li>
 <li><a href="https://discordapp.com/users/695995816791507024">My Discord Profile</a></li>
  </ul>
 <br><br>
