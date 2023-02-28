@@ -26,6 +26,7 @@
  <img width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png">
   <img width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/laravel.svg">
 <img width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/go.svg">
+<img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg">
  <br><br></kbd>
  <kbd>
   <kbd>
