@@ -1,5 +1,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=hasan-kilici&color=red" />
+<h3>About me</h3>
+17 y/o Full stack developer
+
 <h3>My Skills</h3>
 
 <div >
