@@ -30,6 +30,7 @@
   <img width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/laravel.svg">
 <img width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/go.svg">
 <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg">
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/PowerShell_Core_6.0_icon.png/96px-PowerShell_Core_6.0_icon.png">
  <br><br></kbd><br><br>
  <kbd style="width:25%">
   <kbd>
@@ -39,6 +40,7 @@
 <img width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/dart.svg">
 <img width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/go.svg">
 <img width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c%23.svg">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/PowerShell_Core_6.0_icon.png/96px-PowerShell_Core_6.0_icon.png" width="40px">
 <br><br>
  </kbd>
  <kbd style="width:25%">
