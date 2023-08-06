@@ -65,7 +65,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-kilici&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=12"><br><br>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-kilici&theme=github-dark&show_icons=true"/><br><br>
 <img src="https://github-profile-trophy.vercel.app/?username=hasan-kilici&theme=onedark" />
-
+ <p align="center">
+        <a href="https://github.com/hasan-kilici/github-readme-stats"><img alt="Hasan-kilici's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hasan-kilici&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p/>
  </details>
 </div>
  
