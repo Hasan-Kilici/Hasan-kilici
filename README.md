@@ -8,7 +8,6 @@
 </b>
 <h2>My Skills</h2>
 <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,js,ts,vite,svelte,vue,nodejs,express,python,django,php,laravel,go,nim,c,cpp,mysql,postgresql,mongodb,firebase,prisma">
-<h2>Contact me</h2>
 <ul>
  </ul>
 <br><br>
