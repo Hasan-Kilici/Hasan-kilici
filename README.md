@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,js,ts,vite,svelte,vue,nodejs,express,python,django,php,laravel,go,nim,c,cpp,mysql,postgresql,mongodb,firebase,prisma">
 <h2>Contact me</h2>
 <ul>
-<li><a href="https://discordapp.com/users/695995816791507024">My Discord Profile</a></li>
+<li><a href="https://discordapp.com/users/1097304620885356565">My Discord Profile</a></li>
  </ul>
 <br><br>
 <div align="center">
