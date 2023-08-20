@@ -1,12 +1,15 @@
-
-<img src="https://komarev.com/ghpvc/?username=hasan-kilici&color=red" />
-<h3>About me</h3>
-17 y/o Full stack developer
-<h3>My Skills</h3>
+<img width="100%" src="github-header-image.png">
+<div class="float:left;width:600px">
+<a href="https://discordapp.com/users/1097304620885356565"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.instagram.com/kawethra.official/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<img align="right" src="https://komarev.com/ghpvc/?username=hasan-kilici&color=red" />
+</div>
+<b class="width:10%">
+</b>
+<h2>My Skills</h2>
 <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,js,ts,vite,svelte,vue,nodejs,express,python,django,php,laravel,go,nim,c,cpp,mysql,postgresql,mongodb,firebase,prisma">
 <h2>Contact me</h2>
 <ul>
-<li><a href="https://discordapp.com/users/1097304620885356565">My Discord Profile</a></li>
  </ul>
 <br><br>
 <div align="center">
