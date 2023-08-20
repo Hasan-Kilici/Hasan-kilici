@@ -2,7 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=hasan-kilici&color=red" />
 <h3>About me</h3>
 17 y/o Full stack developer
-
 <h3>My Skills</h3>
 <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,js,ts,vite,svelte,vue,nodejs,express,python,django,php,laravel,go,nim,c,cpp,mysql,postgresql,mongodb,firebase,prisma">
 <h2>Contact me</h2>
