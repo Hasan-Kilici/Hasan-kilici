@@ -11,6 +11,7 @@
 <ul>
  </ul>
 <br><br>
+<h2>About me</h2>
 <div align="center">
 <details>
   <summary>Click to Show Stats</summary>
