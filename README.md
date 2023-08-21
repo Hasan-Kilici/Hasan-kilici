@@ -22,8 +22,8 @@
 <h2>Stats</h2>
 <div align="center">
 
-<p>
-<img align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-kilici&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=12">
+<p align="center">
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-kilici&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=12">
   <a href="https://github.com/hasan-kilici/github-readme-stats"><img  width="64%" alt="Hasan-kilici's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hasan-kilici&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br><br>
 </p><br><br><br>
  <img src="https://github-profile-trophy.vercel.app/?username=hasan-kilici&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
