@@ -7,7 +7,7 @@
 <b class="width:10%">
 </b>
 <h2>My Skills</h2>
-<img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,js,ts,vite,svelte,vue,nodejs,express,python,django,php,laravel,go,nim,c,cpp,mysql,postgresql,mongodb,firebase,prisma">
+<img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,js,ts,vite,svelte,vue,solidjs,astro,nodejs,express,python,django,php,laravel,go,nim,c,cpp,mysql,postgresql,mongodb,firebase,prisma">
 <ul>
  </ul>
 <br><br>
