@@ -16,7 +16,7 @@
 <li><b>🔭 I’m currently working on:</b> Instagram clone</li>
 <li><b>🌱 I’m currently learning:</b> Rust</li>
 <li><b>👨‍💻 All of my projects are available at:</b> https://hasan-kilici.github.io</li>
-<li><b>😄 Fun fact:</b> I love Codeing(💻), Traveling(🌍).</li>
+<li><b>😄 Fun fact:</b> I love Coding(💻), Traveling(🌍).</li>
 <li><b>💬 Ask me about anything:</b> <a href="https://discordapp.com/users/1097304620885356565">Here.</a></li>
 <br><br><br><br><br><br>
 <h2>Stats</h2>
